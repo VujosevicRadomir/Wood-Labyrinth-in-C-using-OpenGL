@@ -1,1 +1,0 @@
-# Wood-Labyrinth-in-C-using-OpenGL
